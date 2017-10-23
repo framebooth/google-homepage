@@ -1,0 +1,126 @@
+body {
+    font-family: sans-serif, serif;
+    margin-bottom: 0;
+}
+
+.linksgrp1 {
+  float: left;
+  margin-left: 25px;
+  padding-top: 3px;
+}
+
+.linksgrp2 {
+  float: right;
+  margin-right: 25px;
+}
+
+
+.gb_a {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    vertical-align: middle;
+    background-position: -132px -38px;
+}
+
+.gb_ab_bg {
+  background-image: url(http://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+}
+
+
+.gb_b {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: rgba(0,0,0,1);
+    color: #fff;
+    padding: 0 2px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    vertical-align: middle;
+    background-position: -194px -21px;
+}
+
+.gb_c_bg {
+    background-image: url(https://scontent-ort2-1.cdninstagram.com/t51.2885-19/10735228_756156667788371_1735050397_a.jpg);
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+    background-position: -15px -4px;
+  }
+
+.gb_c {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    padding: 0 2px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+
+
+img {
+  width: 350px;
+  margin: auto;
+  display: block;
+}
+/* when width is set, margin:auto lets you centre html element within its containing elemnt*/
+
+
+ul {
+  list-style-type: disc;
+  margin: 0;
+  padding: 0;
+}
+/* standard code used in both vertical and horizontal navigation bars*/
+
+li {
+  display: inline;
+}
+/* converts block elements to inline elements creating horizaontal list*/
+
+a {
+  color: black;
+}
+
+a:visited {
+    color: #609;
+}
+
+
+
+
+.center {
+    margin: auto;
+    width: 400px;
+ }
+
+div.buttons {
+    width: 229px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: auto;
+}
+
+
+
+
+
+input[name="search"]{
+  width: 400px;
+  height: 25px;
+}
+
+.francais {
+  text-align: center;
+}
+
+
+footer {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 40px;
+}
